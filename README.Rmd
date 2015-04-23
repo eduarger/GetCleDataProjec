@@ -1,0 +1,19 @@
+---
+title: "README.md"
+output: html_document
+---
+
+```{r}
+summary(cars)
+```
+
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+# README
+
+this files is the 
+
